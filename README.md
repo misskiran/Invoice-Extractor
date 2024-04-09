@@ -1,0 +1,5 @@
+- This project requires a virtual environment . So , first create a virtual env and then install the required packages given in requirements.txt.
+- It supports environment with python 3.10 or further.
+- You also need to get your own Gemini API public key which freely available.
+- Create a file named .env in the same folder as vision.py and inside it paste your google api key
+- After creating the Virtual Enivironment , you can activate the conda environment and run the application there.
